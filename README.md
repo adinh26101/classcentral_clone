@@ -1,1 +1,1 @@
-# classcentral_clone
+# codingstars
