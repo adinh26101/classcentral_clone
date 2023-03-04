@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-vw4s3++b+=a&x6zpl3x%ypn4c2))^0(1t(+i)ucetipz$$dslt
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['classcentral_clone.up.railway.app', '*']
+ALLOWED_HOSTS = ['classcentral-clone.up.railway.app', '*']
 
 
 # Application definition
